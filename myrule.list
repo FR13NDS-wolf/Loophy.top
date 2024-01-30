@@ -1,4 +1,6 @@
-# 个人定义
+# 个人定义 
+# Delet the #
+# delet the #
 
 
 DOMAIN-SUFFIX,pigai.org
@@ -6,10 +8,13 @@ DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,docker.easydoc.net
 DOMAIN-SUFFIX,nodeoj.com
 DOMAIN-SUFFIX,wuli.wiki
-#DOMAIN-SUFFIX,aitoolbox.cn
-#DOMAIN-SUFFIX,loophy.top
-#DOMAIN-SUFFIX,zhihuishu.com
-#DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,aitoolbox.cn
+DOMAIN-SUFFIX,loophy.top
+DOMAIN-SUFFIX,zhihuishu.com
+DOMAIN-SUFFIX,aliyuncs.com
+#DOMAIN-SUFFIX,
+#DOMAIN-SUFFIX,
+#DOMAIN-SUFFIX,
 #DOMAIN-SUFFIX,
 #DOMAIN-SUFFIX,
 #DOMAIN-SUFFIX,
